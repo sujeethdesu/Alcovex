@@ -4,10 +4,12 @@ Description:
   This task is related to Image Processing using Machine Learning. Create a Deep Learning model such that the modal
   should classify/identify the actual image (Real image) and photoshopped image (Fake image) when given an input
   image.
+  
 Functional Requirements:
 
   ● Any accuracy above 80% is acceptable.
   ● Use any predefined Deep Learning Neural Network (CNN, ANN, etc.).
+  
 Resources:
 
   1. Dataset - You are expected to use this dataset.
