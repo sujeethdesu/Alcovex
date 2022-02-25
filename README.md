@@ -13,7 +13,7 @@
   
 **Resources:**
 
-  1. Dataset - You are expected to use this dataset.
+  1. Dataset - You are expected to use this dataset(available in repository).
   
   a. The given data is raw data collected from various open/public sources (YouTube).
   
